@@ -1,0 +1,1 @@
+_gfp_s_({"_cookies_":[{"_value_":"ID=0b22867c4bb17e8d-22549cc894d60020:T=1663416882:RT=1663417091:S=ALNI_Mat0yVqsumgllQ-TfJ7DYWsvUQtwg","_expires_":1697112882,"_path_":"/","_domain_":"greatist.com","_version_":1}]});
